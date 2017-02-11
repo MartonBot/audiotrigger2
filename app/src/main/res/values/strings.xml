@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AudioTrigger 2</string>
+    <string name="audio_trigger_enabled">ON</string>
+    <string name="audio_trigger_disabled">OFF</string>
+    <string name="environment_noisy">NOISY</string>
+    <string name="environment_normal">NORMAL</string>
+    <string name="audio_trigger_title">AUDIO TRIGGER</string>
+    <string name="environment_selection_title">ENVIRONMENT</string>
+    <string name="threshold_title">THRESHOLD</string>
+    <string name="cooldown_title">TRIGGER COOLDOWN</string>
+    <string name="poll_interval_title">POLL INTERVAL</string>
+    <string name="settings_label">Settings</string>
+    <string name="reset_label">Reset</string>
+    <string name="double_zero">00</string>
+</resources>

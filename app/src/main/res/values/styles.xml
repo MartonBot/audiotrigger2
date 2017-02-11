@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+
+    </style>
+
+    <style name="SettingsHeader" parent="AppTheme">
+        <item name="android:padding">5dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+    <style name="SettingsText" parent="AppTheme">
+        <item name="android:textColor">@color/primary_text</item>
+    </style>
+
+</resources>
